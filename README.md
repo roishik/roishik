@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Roi Shikler, a Data Scientist.
+- 📚 B.Sc.+M.Sc. M.E., at my M.Sc. I developed a new method to investigate fatigue faliures using computer vision.
+- 👀 I’m interested in ML, DL, and Finance.
+- 📫 You can reach me at roishik10@gmail.com
